@@ -1,0 +1,23 @@
+[
+  {
+    "id": "p1",
+    "title": "Wireless Headphones",
+    "price": 29.99,
+    "image": "images/headphones.jpg",
+    "desc": "Comfortable Bluetooth headphones"
+  },
+  {
+    "id": "p2",
+    "title": "Power Bank 10000mAh",
+    "price": 19.99,
+    "image": "images/powerbank.jpg",
+    "desc": "Fast charging power bank"
+  },
+  {
+    "id": "p3",
+    "title": "Phone Case - Red",
+    "price": 7.50,
+    "image": "images/case.jpg",
+    "desc": "Shockproof phone case"
+  }
+]
